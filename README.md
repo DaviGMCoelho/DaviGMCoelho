@@ -16,7 +16,7 @@
 </td>
 <td><a href="https://replit.com/@aramuni"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="goncalvesdavi662@gmail.com" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:goncalvesdavi662@gmail.com" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
