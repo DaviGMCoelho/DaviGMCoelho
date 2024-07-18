@@ -45,8 +45,8 @@
 <td>
 <div align="justify">
 <p> 
-- Estudante de Análise e Desenvolvimento de Sistemas na UNIP
-- Estou aprendendo Python
+- Estudante de Análise e Desenvolvimento de Sistemas na UNIP.<br />
+- Estou aprendendo Python.<br />
 - :basketball: Meus hobbies são <a href="https://www.crunchyroll.com/pt-br" target="_blank">Animes</a> e fazer exercícios físicos.
 - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: Para me encontrar, esse é meu <a href="mailto:goncalvesdavi662@gmail.com" target="_blank">e-mail</a> pessoal.<br />
