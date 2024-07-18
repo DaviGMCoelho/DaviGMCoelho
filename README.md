@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://wa.me/5515998058545" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/DaviGMCoelho/" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/davii_coelh/" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/DaviGMCoelho/" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
