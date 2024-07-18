@@ -32,6 +32,7 @@
 <div align="justify">
 <i><b>Eae</b> :wave:, sou o <code>Davi</code>, tenho 19 anos, moro em Sorocaba e descobri meu gosto por programação aos 18 anos de idade. Eu estou no 2° Período de Análise e Desenvolvimento de Sistemas na Universidade Paulista de Sorocaba (UNIP) e atualemente estou estudando Python por conta própria. Sou apaixonado pela área de tecnologia e estou determinado a me aprofundar cada vez mais nesse meio. Créditos do modelo ao <a href="https://github.com/joaopauloaramuni" target="_blank">João Paulo Aramuni</a>
 
+-----
 <div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
