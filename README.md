@@ -12,7 +12,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/DaviGMCoelho" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/DaviGMCoelho" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:goncalvesdavi662@gmail.com" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
