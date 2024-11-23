@@ -52,6 +52,9 @@
 </p>
 </div>
 </td>
+<div>
+<img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true" width="340px" height="520px"/>
+</div>
 <td>
 </td>
 </tr>
