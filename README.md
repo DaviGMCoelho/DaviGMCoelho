@@ -34,6 +34,8 @@
 
 -----
 
+<div>
+
 <table>
 <tr>
  <td align="center" colspan="2"></td>
