@@ -30,7 +30,7 @@
 
 </div>
 <div align="justify">
-<i><b>Eae</b> :wave:, sou o <code>Davi</code>, tenho 19 anos, moro em Sorocaba e descobri meu gosto por programação aos 18 anos de idade. Eu estou no 2° Período de Análise e Desenvolvimento de Sistemas na Universidade Paulista de Sorocaba (UNIP) e atualmente estou estudando Python por conta própria. Sou apaixonado pela área de tecnologia e estou determinado a me aprofundar cada vez mais nesse meio.</a>
+<i><b>Eae</b> :wave:, sou o <code>Davi</code>, tenho 20 anos, moro em Sorocaba e descobri minha paixão por tecnologia aos 18 anos de idade. Eu estou no 2° Período de Análise e Desenvolvimento de Sistemas na Universidade Paulista de Sorocaba (UNIP) e atualmente estou estudando Python por conta própria. Sou apaixonado pela área de tecnologia e estou determinado a me aprofundar cada vez mais nesse meio.</a>
 
 -----
 
