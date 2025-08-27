@@ -16,9 +16,9 @@
 </td>
 <td><a href="mailto:goncalvesdavi662@gmail.com" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5515998058545" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5515998554097" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/davii_coelh/" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/techwithdavi/" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/DaviGMCoelho/" target="_blank"><img src="https://github.com/DaviGMCoelho/DaviGMCoelho/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -30,7 +30,7 @@
 
 </div>
 <div align="justify">
-<i><b>Eae</b> :wave:, sou o <code>Davi</code>, tenho 20 anos, moro em Sorocaba e descobri minha paixão por tecnologia aos 18 anos de idade. Eu estou no 2° Período de Análise e Desenvolvimento de Sistemas na Universidade Paulista de Sorocaba (UNIP) e atualmente estou estudando Python por conta própria. Sou apaixonado pela área de tecnologia e estou determinado a me aprofundar cada vez mais nesse meio.</a>
+<i><b>Eae</b> :wave:, sou o <code>Davi</code>, tenho 20 anos, moro em Sorocaba e descobri minha paixão por tecnologia aos 18 anos de idade. Eu estou no 4° Período de Análise e Desenvolvimento de Sistemas na Universidade Paulista de Sorocaba (UNIP) e atualmente estou estudando Python por conta própria. Sou apaixonado pela área de tecnologia e estou determinado a me aprofundar cada vez mais nesse meio, eu atuo como freelancer também! Gostou de algum projeto e quer um sob medida pra você? É só me chamar! meus meios de contato estão aí me cima, ficarei feliz em te ajudar!</a>
 
 -----
 
@@ -44,7 +44,7 @@
 <td>
 <div align="justify">
 <p>
-- :telephone_receiver: Sou freelancer! Gostou de algum projeto? Faço um sob medida pra você!<br />
+- :telephone_receiver: Freelancer. Gostou de algum projeto? Faço um específico pra você!<br />
 - :fire: Estudante de Análise e Desenvolvimento de Sistemas na UNIP.<br />
 - :rocket: Desenvolvedor Python.<br />
 - :basketball: Meus hobbies são <a href="https://www.crunchyroll.com/pt-br" target="_blank">Animes</a> e fazer exercícios físicos.<br />
